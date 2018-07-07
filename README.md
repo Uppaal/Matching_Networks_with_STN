@@ -1,1 +1,4 @@
-# Matching_Networks_with_STN
+# Exploring One Shot Learning through Matching Networks and Spatial Transformer Networks
+
+Data is a highly important factor in Deep Learning. The resence of a large, labeled and balanced dataset is often essential for a model to perform optimally at a particular task. However, finding such data in the real world is rare, and creating these datasets is a tedious task. One-Shot learning is a new field which aims to solve this problem, by enabling a model to learn from a single example per class. This project explores Matching Networks, a high performing One-Shot learning architecture. The importance of certain features of Matching Networks have been analyzed through an ablation study. Additionally, a Spacial Transformer Network has been introduced into the encoding function, to make the model robust to rotational invariance. Finally, a new few shot learning dataset on Pokemon was created, and can be used to further test the proposed model.
+
